@@ -1,5 +1,3 @@
-const Swal = require('sweetalert2')
-
 function at1(){
     var i = 1;
     var num = 10;
