@@ -10,7 +10,8 @@ body{
     border-radius: 15px;
     background-color: #332291;
     color: #ccc;
-    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-top: 10px;
     margin-left: 2px;
     margin-right: 2px;
     box-shadow: 5px 5px 10px black;
@@ -34,8 +35,8 @@ body{
 }
 
 fieldset{
-    width: 550px;
-    height: 300px;
+    width: 40%;
+    height: auto;
     border-radius: 25px;
     color: #ddd;
     border-color: #ddd;
