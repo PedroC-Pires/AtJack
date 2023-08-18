@@ -1,0 +1,59 @@
+body{
+    background-color: #212638;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border: none;
+    border-radius: 15px;
+    background-color: #332291;
+    color: #ccc;
+    margin-top: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+    box-shadow: 5px 5px 10px black;
+    animation: ease-in-out;
+    transition: 0.5s;
+}
+
+.btn:hover{
+    width: 105px;
+    height: 43px;
+    background-color: #412ea8;
+    color: #fff;
+}
+
+.btn:active{
+    width: 100px;
+    height: 40px;
+    background-color: #332291;
+    color: #ddd;
+    transition: 0.1s;
+}
+
+fieldset{
+    width: 550px;
+    height: 300px;
+    border-radius: 25px;
+    color: #ddd;
+    border-color: #ddd;
+    margin-top: 200px;
+}
+
+.texto{
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    border: none;
+    text-align: center;
+    font-size: 22px;
+    box-shadow: 5px 5px 10px black;
+    animation: ease-in-out;
+    transition: 0.5s;
+}
+
+.texto:focus{
+    width: 160px;
+}
